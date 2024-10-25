@@ -74,7 +74,9 @@ const styles = StyleSheet.create({
   },
 
   goalsContainers: {
-    marginTop: 22
+    marginTop: 22,
+    
+  
   },
 
 });

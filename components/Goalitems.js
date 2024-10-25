@@ -15,13 +15,14 @@ export default GoalItem;
 const styles =StyleSheet.create({
     goalItem: {
         margin: 8,
-        padding: 15,
-        borderRadius: 4,
-        backgroundColor: '#5e0acc',
+        padding: 25,
+        borderRadius: 14,
+        backgroundColor: 'black',
     
       },
       goalText: {
         color: 'white',
+        size : 29
       },
 
 });
